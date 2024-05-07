@@ -1,6 +1,6 @@
 # Bash Scripting
 # learning-linux 
-# Basic'a of bash Scripting you need to know all the notes are made by me my own notes if you find any query you can contact me
+# Basicc of bash Scripting you need to know all the notes are made by me my own notes if you find any query you can contact me
 # currently I'm busy with some university stuff i will update this very soon
 # Intro to bash Scripting 
 To check which shell you're in 
